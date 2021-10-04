@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA4cBDcaD89874614d4587aC3979E6BE5B54801a9",
+  "SCAN_LINK": "https://polygonscan.com/token/0xA4cBDcaD89874614d4587aC3979E6BE5B54801a9",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "HwaHumanZ",
+  "SYMBOL": "HWA",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hwahumanz",
+  "SHOW_BACKGROUND": true
+}
